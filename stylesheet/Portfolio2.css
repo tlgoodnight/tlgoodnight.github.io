@@ -316,7 +316,13 @@ footer {
     height: 450px; /* This sets the height of the column to 400px -  this may need to be adjusted depending on the text you enter */
     background-color: #f2f2f2; /* Sets the background color of the left columns */
 }
-
+.Column_1_table_background {
+    float: left;
+    width: 50%;
+    height: 450px; /* This sets the height of the column to 400px -  this may need to be adjusted depending on the text you enter */
+    background-color:dimgrey;
+    background-repeat:no-repeat;
+}
 .Column_2 {
     float: left;
     width: 50%;
